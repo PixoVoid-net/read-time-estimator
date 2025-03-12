@@ -4,9 +4,9 @@
 
 ---
 
-## **Disclaimer**
+## **Disclaimer**  
 
-This plugin is provided "as is" without any warranties or guarantees. The author disclaims all warranties, expressed or implied, including but not limited to merchantability, fitness for a particular purpose, ownership, or non-infringement of third-party rights. Use of this plugin is at the user's own risk.
+This plugin is provided **"as is"** without warranties or guarantees of any kind. The author disclaims all implied warranties, including but not limited to merchantability, fitness for a particular purpose, and non-infringement of third-party rights. **Use of this plugin is at the user's own risk.**  
 
 ---
 
